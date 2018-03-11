@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Kashiwagi3" size="10.000000 4.575646" />
+    <ImageTarget name="Yugiri" size="10.000000 5.583483" />
+    <ImageTarget name="Yokobue" size="10.000000 5.724838" />
+    <ImageTarget name="Kashiwagi1" size="10.000000 4.505495" />
+    <ImageTarget name="Kashiwagi2" size="10.000000 4.522943" />
+  </Tracking>
+</QCARConfig>
